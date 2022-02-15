@@ -1,3 +1,5 @@
+![Git logo](1_QoR3rxWIbnf5wmF_IuAHqQ.png)
+
 # Рaбота с Git
 
 ## 1. Проверка наличия установленного Git
